@@ -55,3 +55,21 @@ ul {
 }
 
 /* JUMBOTRON */
+
+.jumbotron {
+    max-width: 1200px;
+    background-color: #fff;
+    margin-left: 50px;
+}
+
+.jumbotron h2 {
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+
+.jumbotron h2 span {
+    color: #ffc200;
+}
+
+/* BANNER */
+
