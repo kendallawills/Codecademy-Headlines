@@ -1,0 +1,57 @@
+/* UNIVERSAL */
+
+html,
+body {
+    font-family: "Libre Baskerville", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+
+}
+
+/* TYPOGRAPHY */
+
+h1 {
+    font-size: 20px;
+}
+
+ul {
+    text-align: right;
+}
+
+/* SIZING */
+
+.container {
+    margin: 0 auto;
+}
+
+.spacer {
+
+}
+
+.main {
+
+}
+
+/* HEADER */
+
+.header {
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 30px 0 40px;
+}
+
+.header li {
+    list-style: none;
+    display: inline-block;
+}
+
+.header li a {
+    color: #333;
+    border: 0px;
+    margin: 0;
+}
+
+/* JUMBOTRON */
