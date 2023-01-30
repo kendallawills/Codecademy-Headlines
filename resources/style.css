@@ -8,7 +8,9 @@ body {
 }
 
 img {
-
+    width: auto;
+    height: auto;
+    margin: 10px auto;
 }
 
 /* TYPOGRAPHY */
@@ -25,14 +27,6 @@ ul {
 
 .container {
     margin: 0 auto;
-}
-
-.spacer {
-
-}
-
-.main {
-
 }
 
 /* HEADER */
@@ -81,4 +75,35 @@ ul {
 }
 
 /* EXPERTISE */
+
+#expertise {
+    background-color: #ffc200;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.main {
+    background-color: #ffc200;
+}
+
+.spacer {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.cards {
+    background-color: #ffc200;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* FOOTER */
 
